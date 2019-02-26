@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Headlines</string>
+    <string name="api_key">Sign up to get your API Key</string>
+    <string name="go_to_link">See the full story</string>
+</resources>
